@@ -1,24 +1,5 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Learning how to use Ruby on Rails for data APIs, following these article(s):
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+- [Building a Small Rails API with Serializers](https://levelup.gitconnected.com/building-a-small-rails-api-with-serializers-32e3e69a078)
